@@ -27,9 +27,11 @@ se usa para crear bases de datos desde la consola
 drop database nombreBaseDeDatos;
 para eliminar bases de datos 
 
+show databases
+ todas las bases de datos
 
 
-PARA ACCEDER A LAQ BASE DE DATOS DESDE LA CONSOLA LUEGO DE HABER UBICADO LA DERECION DONDE SE EJECUTA SE INTRODUCE 
+PARA ACCEDER A LA BASE DE DATOS DESDE LA CONSOLA LUEGO DE HABER UBICADO LA DERECION DONDE SE EJECUTA SE INTRODUCE 
 
 mysql -u root -p
 
